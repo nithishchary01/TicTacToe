@@ -24,9 +24,9 @@ Tic Tac Toe is a classic 3x3 grid game played between two players — **Player X
 
 ## 📸 Screenshots
 
-| Welcome Screen | Game Board | Game In Progress | Game Ended |
+| Welcome Screen | Game Board | Game Ended |
 |----------------|------------|------------------|------------|
-| ![Start](screenshots/start.png) | ![Board](screenshots/board_empty.png) | ![In Progress](screenshots/playing.png) | ![Result](screenshots/winner.png) |
+| ![Start](screenshots/Ready.png) | ![Board](screenshots/Interface.png) | ![Result](screenshots/Result.png) |
 
 > *(Rename your screenshots accordingly and place them inside a `/screenshots` folder in the root of the repo)*
 
