@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="#FFF3E0"
+    android:padding="24dp"
+    tools:context=".tictactoe">
+
+    <TextView
+        android:id="@+id/txt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ready to Play?"
+        android:textSize="28sp"
+        android:textColor="#FF5722"
+        android:textStyle="bold"
+        android:layout_marginBottom="32dp"/>
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Start Game"
+        android:textSize="20sp"
+        android:textColor="#FFFFFF"
+        android:backgroundTint="#FF9800"
+        android:paddingLeft="24dp"
+        android:paddingRight="24dp"
+        android:paddingTop="12dp"
+        android:paddingBottom="12dp"
+        android:elevation="8dp"
+        android:layout_marginTop="16dp"/>
+</LinearLayout>
